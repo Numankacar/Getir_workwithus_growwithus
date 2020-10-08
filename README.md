@@ -23,5 +23,5 @@ Great companies are made by great technology. Great technology is made by great 
 | Data Manager | Phyton, R, SAAS | İstanbul / Etiler | https://bit.ly/3iH7lRr |
 | Delivery Optimization - Algorithms | Phyton, Node.Js, Algorithms,  | İstanbul / Etiler | https://bit.ly/2SCepEc |
 | Data Analyst/Scientist | Phyton,  SQL, MongoDB | İstanbul / Etiler | https://bit.ly/3iGs1ZV |
-| Product Manager - Data Algorithms| Product Management, Data Science | İstanbul / Etiler | https://bit.ly/3iGs1ZV |
-| Sr. Product Manager - Internal Ops| Product Management, Agile | İstanbul / Etiler | https://bit.ly/3iGs1ZV |
+| Product Manager - Data Algorithms| Product Management, Data Science | İstanbul / Etiler | https://bit.ly/30JZ1u5 |
+| Sr. Product Manager - Internal Ops| Product Management, Agile | İstanbul / Etiler | https://bit.ly/3lujEm3 |
